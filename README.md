@@ -63,12 +63,12 @@
   This section does list out our partners who are working with us.
 
  Contact
- ![contact.jpg](https://github.com/Sampatbraide/second-milestone-project.io/blob/main/assets/images/contact.jpg)
+ ![contact.jpg](https://github.com/Sampatbraide/fourth-milestone-project.io/blob/main/assets/images/contact.jpg)
  Our client are directed  to get in touch with us.
 
 
  At the footer, there are some social media networks.
- ![footer.jpg](https://github.com/Sampatbraide/second-milestone-project.io/blob/main/assets/images/footer.jpg)
+ ![footer.jpg](https://github.com/Sampatbraide/fourth-milestone-project.io/blob/main/assets/images/footer.jpg)
  Links to our social media networks.
 
 

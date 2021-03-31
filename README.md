@@ -119,7 +119,7 @@
  [EPIDEMICNSOUND](https://www.epidemicsound.com/music/),
  [DATPIFF](https://www.datpiff.com/)
  
-##Note: 
+## Note: 
  I am in a very tight end, due to the previous shortcoming, I have been given three months
  and some weeks to summit all four project which is not possible, I am a family man, who works 
  to take care of my family, I have explained this to the student care team, but things did not 
